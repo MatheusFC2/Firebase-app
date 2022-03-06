@@ -3,17 +3,17 @@ import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
 
-    apiKey: "AIzaSyDkin8zEQ9bZEfyT8BzCZXbXcBO7odWRkY",
+    apiKey: 
   
-    authDomain: "fir-app-f1c2a.firebaseapp.com",
+    authDomain: 
   
-    projectId: "fir-app-f1c2a",
+    projectId: 
   
-    storageBucket: "fir-app-f1c2a.appspot.com",
+    storageBucket: 
   
-    messagingSenderId: "226135321365",
+    messagingSenderId: 
   
-    appId: "1:226135321365:web:e45f854e9489c19a1b971c"
+    appId: 
   
 };
   
